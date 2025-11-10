@@ -1,2 +1,4 @@
-# I-INR-Iterative-Implicit-Neural-Representations
-I-INR: Iterative Implicit Neural Representations (AAAI-26)
+# I-INR: Iterative Implicit Neural Representations (AAAI-26)
+
+Official repository for **I-INR**, accepted at AAAI-26.  
+🚀 Code coming soon!
